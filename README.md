@@ -4,18 +4,34 @@
   <br><br>
 
   <a href="https://linkedin.com/in/seu-usuario">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/la%C3%ADs-bembo-de-freitas-163650291/" alt="LinkedIn">
   </a>
 
-  <a href="https://codeforces.com/profile/seu-usuario">
-    <img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-  </a>
+</div>
+<br><hr><br>
 
-  <a href="https://pinterest.com/seu-usuario">
-    <img src="https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest">
-  </a>
+<table border="0">
+  <tr>
+    <td>
+      <h1>Sobre mim</h1>
+      <p>
+       Olá! Sou estudante de Ciência da Computação com formação técnica em Desenvolvimento de Sistemas pela ETEC Dr. Júlio Cardoso. Meu foco é unir lógica de             programação a conceitos de design e artes visuais para criar interfaces funcionais.
+      Atualmente, desenvolvo projetos utilizando Python, JavaScript e React Native, além de HTML e CSS. Também tenho experiência prévia com C# e possuo certificados de conclusão em Inglês e Espanhol, além de estar iniciando meus estudos em Francês.
+      </p>
+      <br>
+    </td>
+    <td width="300px" align="center">
+      <img src="https://github.com/user-attachments/assets/d4e6547e-6ff4-443f-8c5f-579cbf1acdd7" width="100%">
+    </td>
+  </tr>
+</table>
 
-  <a href="https://chess.com/member/seu-usuario">
-    <img src="https://img.shields.io/badge/CHESS.COM-000000?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com">
-  </a>
+<br>
+
+<div align="center">
+  <h2>Technologies</h2>
+  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
