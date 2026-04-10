@@ -3,9 +3,9 @@
 
   <br><br>
 
-  <a href="https://linkedin.com/in/seu-usuario">
-    <img src="https://www.linkedin.com/in/la%C3%ADs-bembo-de-freitas-163650291/" alt="LinkedIn">
-  </a>
+<a href="https://www.linkedin.com/in/laís-bembo-de-freitas-163650291/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 <br><hr><br>
