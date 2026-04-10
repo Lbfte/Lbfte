@@ -36,7 +36,7 @@
 
   <br><br>
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lbfte&show_icons=true&theme=dark" alt="Gráfico de Contribuição" />
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lbfte&theme=github-dark&hide_border=true" alt="Estatísticas de Contribuição de Lbfte" />
 </p>
 </div>
