@@ -36,7 +36,5 @@
 
   <br><br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lbfte&theme=github-dark&area=true&hide_border=true&color=ffffff" alt="Gráfico de Atividade" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lbfte&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 </div>
