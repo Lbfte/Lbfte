@@ -4,6 +4,9 @@
 
 <a href="https://www.linkedin.com/in/laís-bembo-de-freitas-163650291/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=#2c1d45" alt="LinkedIn">
+  <div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLbfte&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="Visitors">
+</div>
 </a>
 
 </div>
