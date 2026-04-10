@@ -46,4 +46,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lbfte&theme=default&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" />
 </p>
+
+<br>
+<div align="center">
+  <img src="https://pacman-contribution-graph.vercel.app/api/pacman?username=Lbfte&theme=dark" alt="Pac-Man Graph" />
+</div>
 </div>
