@@ -44,6 +44,11 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lbfte&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lbfte&theme=github-dark&hide_border=true" alt="Estatísticas de Contribuição de Lbfte" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lbfte
+  &theme=github-dark
+  &hide_border=true
+  &ring=000000
+  &fire=000000
+  &currStreakLabel=000000" />
 </p>
 </div>
