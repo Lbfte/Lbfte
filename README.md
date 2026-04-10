@@ -33,4 +33,10 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+
+  <br><br>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lbfte&show_icons=true&theme=dark" alt="Gráfico de Contribuição" />
+</p>
 </div>
