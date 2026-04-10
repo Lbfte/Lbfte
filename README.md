@@ -37,6 +37,6 @@
   <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lbfte&show_icons=true&theme=dark&icon_color=ffffff&text_color=ffffff&title_color=ffffff&bg_color=000000" alt="Estatísticas Lbfte" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lbfte&theme=github-dark&area=true&hide_border=true&color=ffffff" alt="Gráfico de Atividade" />
 </p>
 </div>
