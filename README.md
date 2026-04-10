@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Lbfte&color=000000&label_color=000000&style=for-the-badge&label=VISITORS&logo=github&logoColor=white" alt="Visitors">
+  <img src="https://img.shields.io/badge/dynamic/json?color=000000&label=VISITORS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FLbfte%2Fvisits&style=for-the-badge&logo=github&logoColor=white" alt="Visitors">
 </div>
 </div>
 <br><hr><br>
