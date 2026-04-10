@@ -47,8 +47,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lbfte
   &theme=github-dark
   &hide_border=true
-  &ring=000000
-  &fire=000000
-  &currStreakLabel=000000" />
+  &ring=ffffff
+  &fire=ffffff
+  &currStreakLabel=ffffff" />
 </p>
 </div>
