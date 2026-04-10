@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/laís-bembo-de-freitas-163650291/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLbfte&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="Visitors">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lbfte.Lbfte&left_text=VISITORS&left_color=%23000000&right_color=%23000000" alt="Visitors">
 </div>
 
 </div>
