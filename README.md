@@ -3,7 +3,7 @@
   <br><br>
 
 <a href="https://www.linkedin.com/in/laís-bembo-de-freitas-163650291/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=#2c1d45" alt="LinkedIn">
 </a>
 
 </div>
