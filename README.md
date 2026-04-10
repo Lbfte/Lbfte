@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cbd5f51d-815a-4800-a56b-e28522c4fc29" width="100%" alt="Banner">
 
-  <br><br>
+  <br>
 
 <a href="https://www.linkedin.com/in/laís-bembo-de-freitas-163650291/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
