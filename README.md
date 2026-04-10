@@ -48,7 +48,4 @@
 </p>
 
 <br>
-<div align="center">
-  <img src="https://pacman-contribution-graph.vercel.app/api/pacman?username=Lbfte&theme=dark" alt="Pac-Man Graph" />
-</div>
 </div>
